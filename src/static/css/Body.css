@@ -1,0 +1,12 @@
+@media only screen and (max-width:600px){
+    .Body {
+        margin: auto;
+    }
+}
+
+@media only screen and (min-width:600px){
+    .Body {
+        width: 70%;
+        padding: 10px;
+    }
+}
