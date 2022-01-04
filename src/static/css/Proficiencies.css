@@ -1,0 +1,14 @@
+@media only screen and (max-width:1110px){
+    .Skills-Table {
+        display: none;
+    }
+}
+
+@media only screen and (min-width:1110px){
+    .Skills-List {
+        display: none;
+    }
+    ul {
+        list-style-type: none;
+    }
+}
