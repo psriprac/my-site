@@ -9,7 +9,7 @@ const Experience = () => (
             <Row>
                 <Stack direction="horizontal" gap={3}>
                     <div><h5>ICW Group</h5></div>
-                    <div className="ms-auto"><h6>May 2020</h6></div>
+                    <div className="ms-auto"><h6>May 2021</h6></div>
                     <div className="vr" />
                     <div><h6>Present</h6></div>
                 </Stack>
