@@ -1,6 +1,6 @@
 const Projects = () => (
     <>
-        Here is where I can talk about my project I'm working on or have worked on
+        <em>This section is being edited.</em>
     </>
 );
 
