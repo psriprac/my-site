@@ -37,8 +37,8 @@ const About = () => (
             support role at Geek Squad. Having the ability to
             be empathetic with people and drive conversations
             during computer support sessions with customers 
-            is a skill that I carried over from the 
-            skillset I used at SeaWorld. During my time at
+            is a skill that I carried over from my time
+            at SeaWorld. During my time at
             Geek Squad, I finished my Bachelor's program
             at Cal State San Marcos. It took me about 
             another year to find a job out of college,
