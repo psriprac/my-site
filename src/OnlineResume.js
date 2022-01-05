@@ -22,6 +22,9 @@ const OnlineResume = () => (
                     <a href="https://www.netlify.com/" target="blank"><em> netlify </em></a>
                     with a custom domain I own.
                 </p>
+                <p>
+                    <em>(Short tutorial coming soon!)</em>
+                </p>
                 <div classname="mb-2">
                     <Button href="https://github.com/psriprac/my-site" target="blank" variant="light" size="sm">
                         <img src={GitHub} alt="GitHub" className="Icons-sm"/>{' '}
