@@ -13,7 +13,7 @@ const Experience = () => (
                     <div className="vr" />
                     <div><h6>Present</h6></div>
                 </Stack>
-                <Figure.Caption><h6>Deskop Technician I</h6></Figure.Caption>
+                <Figure.Caption><h6>Desktop Technician I</h6></Figure.Caption>
             </Row>
             <Row>
                 <ul>

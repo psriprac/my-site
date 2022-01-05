@@ -4,7 +4,7 @@ import LinkedIn from "./static/linkedin.svg";
 
 const Contact = () => (
     <>
-        I check my e-mail every day, so if you would like to get in touch with me, please send me a message at <a href="mailto:psrirpac@gmail.com"><strong>psriprac@gmail.com</strong></a>.<br /><br /> 
+        I check my email every day, so if you would like to get in touch with me, please send me a message at <a href="mailto:psrirpac@gmail.com"><strong>psriprac@gmail.com</strong></a>.<br /><br /> 
         Reach out to me on other social platforms as well!<br />
         <div className="Socials">
             <a href="https://twitter.com/patricksteezy" target="blank"><img src={Twitter} alt="Twitter" className="Icons" /></a>

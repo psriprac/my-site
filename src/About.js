@@ -9,7 +9,7 @@ const About = () => (
         </p>
         <p>
             I live in beautiful San Diego, and have lived 
-            here my whole life. Here, you can go to from 
+            here my whole life. Here, you can go from 
             the beach to a mountain in less than 
             an hour. I love trying new and interesting
             food, and San Diego has so much unique food.
@@ -28,18 +28,18 @@ const About = () => (
             able to move into a leadership position
             and further developed my communication and 
             organizational skills. During this time I made
-            a few changes to my major while pursiuing my degree:
+            a few changes to my major while pursuing my degree:
             I went from Journalism, to Communications, to Economics,
             and finally settled on Computer Science. It made 
             sense to get into tech, because I grew up with
             tech all of my life. While I was in school, 
-            my interest in tech lead me to a service and
+            my interest in tech led me to a service and
             support role at Geek Squad. Having the ability to
-            be empathetic with people and drive converstations
+            be empathetic with people and drive conversations
             during computer support sessions with customers 
             is a skill that I carried over from the 
             skillset I used at SeaWorld. During my time at
-            Geek Squad, I finished my Bachlor's program
+            Geek Squad, I finished my Bachelor's program
             at Cal State San Marcos. It took me about 
             another year to find a job out of college,
             but eventually I found a role at ICW Group
@@ -96,7 +96,7 @@ const About = () => (
         </p>
         <p>
             If you have read this far, thank you!
-            Hopefully you've learn a little (or a lot)
+            Hopefully you've learned a little (or a lot)
             about me!
         </p>
     </>
