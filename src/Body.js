@@ -41,7 +41,7 @@ const Body = () => (
 
 const Body = () => (
     <div className="Body">
-        <Accordian defaultActiveKey={['1']} alwaysOpen flush>
+        <Accordian defaultActiveKey={['3']} alwaysOpen flush>
             <Accordian.Item eventKey="0">
             <Accordian.Header><h4>About Me</h4></Accordian.Header>
                 <AccordionBody>
