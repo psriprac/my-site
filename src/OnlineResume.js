@@ -1,6 +1,5 @@
 import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
-import GitHub from "./static/github.svg";
 
 import "./static/css/Profile.css";
 
@@ -26,9 +25,8 @@ const OnlineResume = () => (
                     <em>(Short tutorial coming soon!)</em>
                 </p>
                 <div classname="mb-2">
-                    <Button href="https://github.com/psriprac/my-site" target="blank" variant="light" size="sm">
-                        <img src={GitHub} alt="GitHub" className="Icons-sm"/>{' '}
-                        See the Source Code Here!
+                    <Button href="https://github.com/psriprac/my-site" target="blank" type="button" class="btn btn-primary">
+                        Source Code
                     </Button>
                 </div>
             </Container>
