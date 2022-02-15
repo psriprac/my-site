@@ -13,34 +13,27 @@ const Experience = () => (
                     <div className="vr" />
                     <div><h6>Present</h6></div>
                 </Stack>
-                <Figure.Caption><h6>Desktop Technician I</h6></Figure.Caption>
+                <Figure.Caption><h6>Desktop Technician II</h6></Figure.Caption>
             </Row>
             <Row>
                 <ul>
                     <li>
-                        Provide support to users with electronic 
-                        hardware and software tools in an office 
-                        environment.
+                        Resolve level 1 and level 2 IT issues in an enterprise environment.
                     </li>
                     <li>
-                        Configure, maintain, and support virtual 
-                        machines with VMware’s vSphere and Horizon 
-                        solutions. 
+                        Configure, maintain, and support virtual machines with VMWare Horizon VDI.
                     </li>
                     <li>
-                        Collaborate with multiple IT teams to 
-                        employ software standards and optimize 
-                        virtual machine environments.
+                        Implement standard ticketing processes with Service Now.
                     </li>
                     <li>
-                        Assist in IT Service Management using ServiceNow.
+                        Create process standards for IT Hardware Asset Management. 
                     </li>
                     <li>
-                        Support and maintain corporate Active 
-                        Directory containing over 1000 members.
+                        Maintain enterprise Active Directory containing over 1000 members. 
                     </li>
                     <li>
-                        Deploy multi-user software solutions using HCL BigFix.
+                        Deploy hardware and software solutions to internal users.
                     </li>
                 </ul>
             </Row>
