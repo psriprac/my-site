@@ -18,7 +18,7 @@ const Projects = () => (
                         <OdinRecipes />
                     </Tab>
                     <Tab eventKey="landing-page" title="Landing Page">
-                        <em><LandingPage /></em>
+                        <LandingPage />
                     </Tab>
                     <Tab eventKey="coming-soon" title="Coming Soon...">
                         <em>More projects to come!</em>
