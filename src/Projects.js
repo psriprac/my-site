@@ -4,6 +4,7 @@ import Container from "react-bootstrap/Container";
 
 import OnlineResume from "./OnlineResume";
 import OdinRecipes from "./OdinRecipes";
+import LandingPage from "./LandingPage";
 
 const Projects = () => (
     <>
@@ -15,6 +16,9 @@ const Projects = () => (
                     </Tab>
                     <Tab eventKey="odin-recipes" title="Recipe Site">
                         <OdinRecipes />
+                    </Tab>
+                    <Tab eventKey="landing-page" title="Landing Page">
+                        <em><LandingPage /></em>
                     </Tab>
                     <Tab eventKey="coming-soon" title="Coming Soon...">
                         <em>More projects to come!</em>
