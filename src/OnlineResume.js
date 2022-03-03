@@ -1,7 +1,7 @@
 import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 
-import "./static/css/Profile.css";
+import "./static/css/Projects.css";
 
 const OnlineResume = () => (
     <>
@@ -25,7 +25,7 @@ const OnlineResume = () => (
                     <em>(Short tutorial coming soon!)</em>
                 </p>
                 <div classname="mb-2">
-                    <Button href="https://github.com/psriprac/my-site" target="blank" type="button" class="btn btn-primary">
+                    <Button href="https://github.com/psriprac/my-site" target="blank" type="button" class="btn btn-primary b-space">
                         Source Code
                     </Button>
                 </div>

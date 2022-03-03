@@ -1,6 +1,8 @@
 import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 
+import "./static/css/Projects.css";
+
 const OdinRecipes = () => (
     <>
         <Container>
@@ -12,10 +14,10 @@ const OdinRecipes = () => (
             </p>
 
             <div classname="mb-2">
-                <Button href="https://github.com/psriprac/odin-recipes" target="blank" type="button" class="btn btn-primary">
+                <Button href="https://github.com/psriprac/odin-recipes" target="blank" type="button" class="btn btn-primary b-space">
                     Source Code
-                </Button>{' '}
-                <Button href="https://psriprac.github.io/odin-recipes/" target="blank" type="button" class="btn btn-primary">
+                </Button>
+                <Button href="https://psriprac.github.io/odin-recipes/" target="blank" type="button" class="btn btn-primary b-space">
                     Live Preview
                 </Button>
             </div>
