@@ -14,10 +14,10 @@ const LandingPage = () => (
             </p>
 
             <div classname="mb-2">
-                <Button href="https://github.com/psriprac/odin-landing-page" target="blank" type="button" class="btn btn-primary b-space">
+                <Button href="https://github.com/psriprac/odin-landing-page" target="blank" type="button" class="btn btn-primary mx-2 mt-2">
                     Source Code
                 </Button>
-                <Button href="https://psriprac.github.io/odin-landing-page/" target="blank" type="button" class="btn btn-primary b-space">
+                <Button href="https://psriprac.github.io/odin-landing-page/" target="blank" type="button" class="btn btn-primary mx-2 mt-2">
                     Live Preview
                 </Button>
             </div>

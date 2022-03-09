@@ -25,7 +25,7 @@ const OnlineResume = () => (
                     <em>(Short tutorial coming soon!)</em>
                 </p>
                 <div classname="mb-2">
-                    <Button href="https://github.com/psriprac/my-site" target="blank" type="button" class="btn btn-primary b-space">
+                    <Button href="https://github.com/psriprac/my-site" target="blank" type="button" class="btn btn-primary mx-2 mt-2">
                         Source Code
                     </Button>
                 </div>
