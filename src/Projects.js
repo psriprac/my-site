@@ -5,6 +5,7 @@ import Container from "react-bootstrap/Container";
 import OnlineResume from "./OnlineResume";
 import OdinRecipes from "./OdinRecipes";
 import LandingPage from "./LandingPage";
+import RockPaperScissors from "./RockPaperScissors";
 
 const Projects = () => (
     <>
@@ -19,6 +20,9 @@ const Projects = () => (
                     </Tab>
                     <Tab eventKey="landing-page" title="Landing Page">
                         <LandingPage />
+                    </Tab>
+                    <Tab eventKey="rock-paper-scissors" title="Rock Paper Scissors">
+                        <RockPaperScissors />
                     </Tab>
                     <Tab eventKey="coming-soon" title="Coming Soon...">
                         <em>More projects to come!</em>
