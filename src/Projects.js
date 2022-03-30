@@ -6,6 +6,7 @@ import OnlineResume from "./OnlineResume";
 import OdinRecipes from "./OdinRecipes";
 import LandingPage from "./LandingPage";
 import RockPaperScissors from "./RockPaperScissors";
+import EtchAndSketch from "./EtchAndSketch";
 
 const Projects = () => (
     <>
@@ -23,6 +24,9 @@ const Projects = () => (
                     </Tab>
                     <Tab eventKey="rock-paper-scissors" title="Rock Paper Scissors">
                         <RockPaperScissors />
+                    </Tab>
+                    <Tab eventKey="etch-a-sketch" title="Etch-A-Sketch">
+                        <EtchAndSketch />
                     </Tab>
                     <Tab eventKey="coming-soon" title="Coming Soon...">
                         <em>More projects to come!</em>
