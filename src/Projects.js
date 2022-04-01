@@ -7,6 +7,7 @@ import OdinRecipes from "./OdinRecipes";
 import LandingPage from "./LandingPage";
 import RockPaperScissors from "./RockPaperScissors";
 import EtchAndSketch from "./EtchAndSketch";
+import Calculator from "./Calculator";
 
 const Projects = () => (
     <>
@@ -27,6 +28,9 @@ const Projects = () => (
                     </Tab>
                     <Tab eventKey="etch-a-sketch" title="Etch-A-Sketch">
                         <EtchAndSketch />
+                    </Tab>
+                    <Tab eventKey="calculator-app" title="Calculator App">
+                        <Calculator />
                     </Tab>
                     <Tab eventKey="coming-soon" title="Coming Soon...">
                         <em>More projects to come!</em>
